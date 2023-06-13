@@ -19,7 +19,7 @@ This project seeks to simulate a checkout process for RGyUm, a new fast-food ven
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Load the data from dropbox: <br/>
 <img src="https://www.dropbox.com/s/43eqcwi94e2h19c/data%20intro%201.png?raw=1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
